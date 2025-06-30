@@ -1,0 +1,581 @@
+{
+    "users": [
+        {
+            "phone": "6291832733",
+            "currentQuestion": 1,
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false,
+            "13": false,
+            "14": false,
+            "15": false,
+            "16": false,
+            "17": false,
+            "18": false,
+            "19": false,
+            "20": false,
+            "21": false,
+            "22": false,
+            "23": false,
+            "24": false,
+            "25": false,
+            "26": false,
+            "27": false,
+            "28": false,
+            "29": false,
+            "30": false,
+            "31": false,
+            "32": false,
+            "33": false,
+            "34": false,
+            "35": false,
+            "36": false,
+            "37": false,
+            "38": false,
+            "39": false,
+            "40": false,
+            "41": false,
+            "42": false,
+            "43": false,
+            "44": false,
+            "45": false,
+            "46": false,
+            "47": false,
+            "48": false,
+            "49": false,
+            "50": false,
+            "51": false,
+            "52": false,
+            "53": false,
+            "54": false,
+            "55": false,
+            "56": false,
+            "57": false,
+            "58": false,
+            "59": false,
+            "60": false,
+            "61": false,
+            "62": false,
+            "63": false
+        },
+        {
+            "phone": "6289038154",
+            "currentQuestion": 10,
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false,
+            "13": false,
+            "14": false,
+            "15": false,
+            "16": false,
+            "17": false,
+            "18": false,
+            "19": false,
+            "20": false,
+            "21": false,
+            "22": false,
+            "23": false,
+            "24": false,
+            "25": false,
+            "26": false,
+            "27": false,
+            "28": false,
+            "29": false,
+            "30": false,
+            "31": false,
+            "32": false,
+            "33": false,
+            "34": false,
+            "35": false,
+            "36": false,
+            "37": false,
+            "38": false,
+            "39": false,
+            "40": false,
+            "41": false,
+            "42": false,
+            "43": false,
+            "44": false,
+            "45": false,
+            "46": false,
+            "47": false,
+            "48": false,
+            "49": false,
+            "50": false,
+            "51": false,
+            "52": false,
+            "53": false,
+            "54": false,
+            "55": false,
+            "56": false,
+            "57": false,
+            "58": false,
+            "59": false,
+            "60": false,
+            "61": false,
+            "62": false,
+            "63": false
+        }
+    ],
+    "questions" : [
+        {
+          "id": "1",
+          "question": "How do you prefer to spend your weekends?",
+          "optionA": "Exploring new places or outdoor activities",
+          "optionB": "Relaxing at home with a book or movie",
+          "optionC": "Socializing with friends and family"
+        },
+        {
+          "id": "2",
+          "question": "What is your approach to solving conflicts?",
+          "optionA": "Directly address the issue and discuss it",
+          "optionB": "Take some time to cool off before talking",
+          "optionC": "Avoid confrontation and hope it resolves itself"
+        },
+        {
+          "id": "3",
+          "question": "What role does your career play in your life?",
+          "optionA": "It is my top priority and a big part of my identity",
+          "optionB": "It is important, but I value a balanced life",
+          "optionC": "It is just a means to an end; my personal life comes first"
+        },
+        {
+          "id": "4",
+          "question": "How do you usually handle stress?",
+          "optionA": "I exercise or engage in physical activities",
+          "optionB": "I talk to someone or seek support",
+          "optionC": "I keep it to myself and try to push through"
+        },
+        {
+          "id": "5",
+          "question": "What are your views on financial planning?",
+          "optionA": "I am meticulous about saving and budgeting",
+          "optionB": "I have a general plan but do not stress over details",
+          "optionC": "I tend to live in the moment and don’t worry much about it"
+        },
+        {
+          "id": "6",
+          "question": "How important is travelling to you?",
+          "optionA": "It is a passion, I love exploring new places",
+          "optionB": "I enjoy it occasionally but do not prioritize it",
+          "optionC": "I prefer staying close to home and familiar surroundings"
+        },
+        {
+          "id": "7",
+          "question": "What kind of social life do you prefer?",
+          "optionA": "I love being surrounded by people and making new friends",
+          "optionB": "I enjoy small gatherings with close friends",
+          "optionC": "I prefer spending time alone or with just one or two people"
+        },
+        {
+          "id": "8",
+          "question": "How do you approach decision-making?",
+          "optionA": "I analyze all options carefully before deciding",
+          "optionB": "I go with my gut feeling",
+          "optionC": "I tend to ask others for their opinions before deciding"
+        },
+        {
+          "id": "9",
+          "question": "What is your preferred way to show affection?",
+          "optionA": "Physical touch, like hugs or holding hands",
+          "optionB": "Verbal expressions, like saying 'I love you'",
+          "optionC": "Acts of service, like doing something thoughtful for them"
+        },
+        {
+          "id": "10",
+          "question": "How do you view long-term relationships?",
+          "optionA": "They require continuous effort and communication",
+          "optionB": "They should feel natural and not require much effort",
+          "optionC": "They are about shared experiences and growth together"
+        },
+        {
+          "id": "11",
+          "question": "How do you feel about religion in your life?",
+          "optionA": "Very important, it guides my decisions",
+          "optionB": "Somewhat important, I respect traditions",
+          "optionC": "Not important, I’m more secular"
+        },
+        {
+          "id": "12",
+          "question": "What’s your stance on politics?",
+          "optionA": "I’m very politically active and opinionated",
+          "optionB": "I’m informed but not very involved",
+          "optionC": "I’m not interested in politics"
+        },
+        {
+          "id": "13",
+          "question": "How important is honesty in a relationship?",
+          "optionA": "Absolutely essential, even if it’s hard",
+          "optionB": "Important, but sometimes white lies are okay",
+          "optionC": "Honesty is important, but not always necessary"
+        },
+        {
+          "id": "14",
+          "question": "How do you view helping others?",
+          "optionA": "It’s a key part of my life",
+          "optionB": "I help when I can",
+          "optionC": "I focus more on myself and those close to me"
+        },
+        {
+          "id": "15",
+          "question": "What is your approach to environmental issues?",
+          "optionA": "I’m very environmentally conscious and proactive",
+          "optionB": "I try to be eco-friendly when possible",
+          "optionC": "I’m not very concerned about environmental issues"
+        },
+        {
+          "id": "16",
+          "question": "How important is it for you to live by a moral code?",
+          "optionA": "Very important, I have a strong moral compass",
+          "optionB": "I have some guiding principles, but I’m flexible",
+          "optionC": "I don’t believe in rigid moral codes"
+        },
+        {
+          "id": "17",
+          "question": "What’s your opinion on gender roles in a relationship?",
+          "optionA": "I believe in traditional roles",
+          "optionB": "I’m open to shared roles and responsibilities",
+          "optionC": "I reject traditional roles and prefer a flexible approach"
+        },
+        {
+          "id": "18",
+          "question": "How do you feel about live-in before marriage?",
+          "optionA": "It’s essential to test compatibility",
+          "optionB": "I’m open to it, but not necessary",
+          "optionC": "I prefer not to live together before marriage"
+        },
+        {
+          "id": "19",
+          "question": "How important is it to have a connection with your society?",
+          "optionA": "Very important, I love being involved",
+          "optionB": "Somewhat important, I like to know my neighbors",
+          "optionC": "Not important, I prefer privacy and independence"
+        },
+        {
+          "id": "20",
+          "question": "How do you view human rights issues?",
+          "optionA": "They are a central concern for me",
+          "optionB": "I support them, but I’m not actively involved",
+          "optionC": "I’m not very engaged with these issues"
+        },
+        {
+          "id": "21",
+          "question": "What are your thoughts on having children?",
+          "optionA": "I definitely want to have children",
+          "optionB": "I’m open to the idea, but not sure yet",
+          "optionC": "I don’t want children"
+        },
+        {
+          "id": "22",
+          "question": "What’s your ideal living situation in the future?",
+          "optionA": "Owning a home in a peaceful suburb",
+          "optionB": "Living in a vibrant city with lots of opportunities",
+          "optionC": "Traveling frequently or living in different places"
+        },
+        {
+          "id": "23",
+          "question": "How important is it to you to continuously keep learning something?",
+          "optionA": "Very important, I love learning and growing",
+          "optionB": "Somewhat important, I’ll learn as needed",
+          "optionC": "Not very important"
+        },
+        {
+          "id": "24",
+          "question": "How do you feel about retirement?",
+          "optionA": "I plan to retire early and enjoy life",
+          "optionB": "I’ll work until a typical retirement age",
+          "optionC": "I might continue working as long as I can"
+        },
+        {
+          "id": "25",
+          "question": "What are your thoughts on owning pets in the future?",
+          "optionA": "I love pets and plan to have them",
+          "optionB": "I’m open to it but not a priority",
+          "optionC": "I’m not interested in owning pets"
+        },
+        {
+          "id": "26",
+          "question": "What’s your approach to physical health and fitness?",
+          "optionA": "I’m very dedicated to staying fit and healthy",
+          "optionB": "I try to stay active but I’m not strict about it",
+          "optionC": "I’m not very focused on fitness"
+        },
+        {
+          "id": "27",
+          "question": "How do you usually express your feelings?",
+          "optionA": "I’m very open and direct about my emotions",
+          "optionB": "I express my feelings, but with some restraint",
+          "optionC": "I tend to keep my emotions to myself"
+        },
+        {
+          "id": "28",
+          "question": "How do you feel about surprises?",
+          "optionA": "I love surprises and spontaneous plans",
+          "optionB": "I’m okay with surprises occasionally",
+          "optionC": "I prefer to plan everything and avoid surprises"
+        },
+        {
+          "id": "29",
+          "question": "What’s your approach to risk-taking?",
+          "optionA": "I’m a risk-taker and enjoy new challenges",
+          "optionB": "I take calculated risks when necessary",
+          "optionC": "I prefer to play it safe and avoid risks"
+        },
+        {
+          "id": "30",
+          "question": "How do you manage your time?",
+          "optionA": "I’m very organized and stick to a schedule",
+          "optionB": "I’m moderately organized, with some flexibility",
+          "optionC": "I’m more spontaneous and go with the flow"
+        },
+        {
+          "id": "31",
+          "question": "What’s your preferred way to spend an evening?",
+          "optionA": "Going out to a social event or activity",
+          "optionB": "Relaxing at home with a movie or book",
+          "optionC": "Working on a personal project or hobby"
+        },
+        {
+          "id": "32",
+          "question": "How important is a healthy diet to you?",
+          "optionA": "Very important, I’m strict about what I eat",
+          "optionB": "Important, but I indulge occasionally",
+          "optionC": "Not very important, I eat what I like"
+        },
+        {
+          "id": "33",
+          "question": "How do you feel about home organization?",
+          "optionA": "I’m very organized and keep everything in its place",
+          "optionB": "I try to stay organized, but I’m not strict about it",
+          "optionC": "I’m not very concerned with organization"
+        },
+        {
+          "id": "34",
+          "question": "What’s your approach to spending money?",
+          "optionA": "I’m very careful and stick to a budget",
+          "optionB": "I try to save, but I also enjoy spending on what I like",
+          "optionC": "I’m more of a spender and focus on enjoying life"
+        },
+        {
+          "id": "35",
+          "question": "How do you feel about hosting gatherings at your home?",
+          "optionA": "I love hosting and frequently invite people over",
+          "optionB": "I enjoy it occasionally, but it’s not a regular thing",
+          "optionC": "I prefer not to host gatherings"
+        },
+        {
+          "id": "36",
+          "question": "How do you feel about nightlife?",
+          "optionA": "I enjoy going out at night, whether it’s to bars, clubs, or events",
+          "optionB": "I’m okay with going out occasionally, but not often",
+          "optionC": "I prefer quiet nights at home"
+        },
+        {
+          "id": "37",
+          "question": "How do you feel about public transportation?",
+          "optionA": "I use it regularly and prefer it to driving",
+          "optionB": "I use it occasionally, but I prefer to drive",
+          "optionC": "I avoid public transportation whenever possible"
+        },
+        {
+          "id": "38",
+          "question": "How important is physical affection in a relationship?",
+          "optionA": "Very important, I need regular physical contact",
+          "optionB": "Important, but not the most important aspect",
+          "optionC": "I’m not very physically affectionate"
+        },
+        {
+          "id": "39",
+          "question": "What’s your approach to giving and receiving gifts in a relationship?",
+          "optionA": "I love giving and receiving gifts, it’s a key part of how I show love",
+          "optionB": "I enjoy it, but it’s not the main way I express love",
+          "optionC": "I’m not very focused on gift-giving"
+        },
+        {
+          "id": "40",
+          "question": "How do you feel about maintaining individuality in a relationship?",
+          "optionA": "Very important, we should have our own lives too",
+          "optionB": "Important, but we should also share a lot together",
+          "optionC": "I prefer to do almost everything together"
+        },
+        {
+          "id": "41",
+          "question": "What’s your stance on sharing finances in a relationship?",
+          "optionA": "I believe in completely shared finances",
+          "optionB": "I prefer to keep some finances separate",
+          "optionC": "I prefer to keep finances mostly separate"
+        },
+        {
+          "id": "42",
+          "question": "How do you feel about social media in a relationship?",
+          "optionA": "I’m very active on social media and like to share our life",
+          "optionB": "I’m somewhat active but prefer to keep our relationship private",
+          "optionC": "I’m not interested in sharing our relationship on social media"
+        },
+        {
+          "id": "43",
+          "question": "What’s your approach to planning for the future together?",
+          "optionA": "I believe in making detailed plans together",
+          "optionB": "I think it’s important but also value flexibility",
+          "optionC": "I prefer to take things as they come"
+        },
+        {
+          "id": "44",
+          "question": "How do you feel about maintaining friendships outside the relationship?",
+          "optionA": "Very important, I value my friendships highly",
+          "optionB": "Important, but I prioritize the relationship",
+          "optionC": "I prefer to focus mainly on the relationship"
+        },
+        {
+          "id": "45",
+          "question": "What’s your view on spending time separately in a relationship?",
+          "optionA": "It’s healthy and necessary to have some time separate",
+          "optionB": "It’s okay occasionally, but I prefer to be together most of the time",
+          "optionC": "I prefer to spend as much time together as possible"
+        },
+        {
+          "id": "46",
+          "question": "How do you handle criticism from your partner?",
+          "optionA": "I appreciate constructive criticism and use it to improve",
+          "optionB": "I’m okay with it, but it can be hard to hear sometimes",
+          "optionC": "I find it difficult and often get defensive"
+        },
+        {
+          "id": "47",
+          "question": "What’s your approach to compromise in a relationship?",
+          "optionA": "I believe in meeting halfway and finding solutions together",
+          "optionB": "I’m willing to compromise but also hold my ground on key issues",
+          "optionC": "I find it difficult to compromise and prefer things my way"
+        },
+        {
+          "id": "48",
+          "question": "How do you handle apologies in a relationship?",
+          "optionA": "I believe in apologizing sincerely when I’m wrong",
+          "optionB": "I’m willing to apologize, but it can be challenging",
+          "optionC": "I rarely apologize and find it difficult to admit fault"
+        },
+        {
+          "id": "49",
+          "question": "What’s your approach to discussing sensitive topics like past relationships?",
+          "optionA": "I believe in addressing sensitive topics openly and directly",
+          "optionB": "I’m cautious and prefer to approach them carefully",
+          "optionC": "I avoid discussing sensitive topics as much as possible"
+        },
+        {
+          "id": "50",
+          "question": "How do you feel about asking for help in a relationship from outsiders?",
+          "optionA": "I’m comfortable asking for help when needed",
+          "optionB": "I prefer to handle things on my own but will ask if necessary",
+          "optionC": "I rarely ask for help and prefer to be independent"
+        },
+        {
+          "id": "51",
+          "question": "What’s your view on expressing affection in public?",
+          "optionA": "I’m comfortable with public displays of affection",
+          "optionB": "I’m okay with it occasionally, but prefer to keep it private",
+          "optionC": "I prefer to keep affection private"
+        },
+        {
+          "id": "52",
+          "question": "How do you feel about emotional expressions like crying in a relationship?",
+          "optionA": "It’s natural and I’m comfortable expressing emotions like crying",
+          "optionB": "I find it challenging but believe it’s important to express emotions",
+          "optionC": "I prefer to avoid such emotional expressions"
+        },
+        {
+          "id": "53",
+          "question": "How do you feel about your partner’s family and their role in your relationship?",
+          "optionA": "I believe in building a close relationship with my partner’s family",
+          "optionB": "I think it’s important, but not essential to be close with their family",
+          "optionC": "I prefer to keep a distance and focus on our relationship"
+        },
+        {
+          "id": "54",
+          "question": "What’s your view on spending holidays with family?",
+          "optionA": "I love spending holidays with family and look forward to it",
+          "optionB": "I enjoy it, but also like to have some holidays to ourselves",
+          "optionC": "I prefer to spend holidays just with my partner, without extended family"
+        },
+        {
+          "id": "55",
+          "question": "What’s your approach to managing family expectations in a relationship?",
+          "optionA": "I believe in balancing family expectations with our own desires",
+          "optionB": "I try to meet family expectations, but prioritize our relationship",
+          "optionC": "I prefer to focus on our relationship and minimize family influence"
+        },
+        {
+          "id": "56",
+          "question": "How do you feel about your partner having close friends of the opposite gender?",
+          "optionA": "I’m comfortable with it and trust my partner completely",
+          "optionB": "I’m okay with it, but have some reservations",
+          "optionC": "I’m uncomfortable with it and prefer it to be limited"
+        },
+        {
+          "id": "57",
+          "question": "What’s your approach to blending different cultural or family traditions?",
+          "optionA": "I believe in embracing and blending traditions together",
+          "optionB": "I think it’s important to respect both, but not blend them too much",
+          "optionC": "I prefer to keep traditions separate and focus on our own"
+        },
+        {
+          "id": "58",
+          "question": "How do you feel about attending social events with your partner’s friends?",
+          "optionA": "I enjoy it and like to get to know their friends better",
+          "optionB": "I’m okay with it, but prefer not to go too often",
+          "optionC": "I prefer to avoid it and let my partner handle their social circle"
+        },
+        {
+          "id": "59",
+          "question": "What’s your approach to financial transparency in a relationship?",
+          "optionA": "I believe in complete financial transparency between partners",
+          "optionB": "I think it’s important, but some aspects can remain private",
+          "optionC": "I prefer to keep finances mostly private and separate"
+        },
+        {
+          "id": "60",
+          "question": "How do you approach setting and achieving life goals?",
+          "optionA": "I set clear goals and work diligently to achieve them",
+          "optionB": "I set goals but remain flexible and adapt as needed",
+          "optionC": "I prefer to live in the moment and not focus too much on goals"
+        },
+        {
+          "id": "61",
+          "question": "How do you handle setbacks or failures in life?",
+          "optionA": "I see them as learning experiences and bounce back quickly",
+          "optionB": "I take them seriously but eventually move on",
+          "optionC": "I find them difficult to handle and struggle to recover"
+        },
+        {
+          "id": "62",
+          "question": "What’s your approach to balancing short-term and long-term goals?",
+          "optionA": "I focus on long-term goals and plan accordingly",
+          "optionB": "I balance both, depending on what’s most important at the time",
+          "optionC": "I focus more on short-term goals and immediate needs"
+        },
+        {
+          "id": "63",
+          "question": "What’s your view on achieving personal fulfillment?",
+          "optionA": "I actively pursue activities that bring me personal fulfillment",
+          "optionB": "I value it, but don’t always prioritize it in my daily life",
+          "optionC": "I focus more on practical concerns than personal fulfillment"
+        }
+      ]
+}
