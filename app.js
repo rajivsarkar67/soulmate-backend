@@ -45,5 +45,5 @@ app.post('/save', (req, res) => {
             fs.writeFileSync('./data.json', JSON.stringify(data));
         }
     })
-    return res.json({saved: true});
+    return res.json(data.users.find(elem => elem.phone === req.body.phoneNumber));
 })
