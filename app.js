@@ -9,6 +9,8 @@ app.listen(PORT, () => {
     console.log(`app started on port : ${PORT}`);
 })
 
+app.use(express.json());
+
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*');
     // Add the Access-Control-Allow-Headers
@@ -21,12 +23,27 @@ app.use((req, res, next) => {
     next();
 });
 
+// to get one users, details
 app.get('/users/:phoneNumber', (req, res) => {
     console.log(`getting this phone number from the frontend: ${req.params.phoneNumber}`);
     return res.json(data.users.find(elem => elem.phone === req.params.phoneNumber
     ));
 })
 
+// to get questions list
 app.get('/questions', (req,res) => {
     return res.json(data.questions);
+})
+
+// to save users answer to particular question
+app.post('/save', (req, res) => {
+    console.log('coming in this saveAnswer API');
+    data.users.forEach(elem => {
+        if(elem.phone === req.body.phoneNumber){
+            elem[req.body.questionId] = req.body.selectedOption;
+            elem.currentQuestion = req.body.questionId + 1;
+            fs.writeFileSync('./data.json', JSON.stringify(data));
+        }
+    })
+    return res.json({saved: true});
 })
